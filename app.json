@@ -14,7 +14,7 @@
     "success_url": "https://t.me/TheUltroid",
     "stack": "container",
     "env": {
-        "ENTER_NAME": {
+        "BOT_TOKEN": {
             "description": "Name of your",
             "value": "Maruf",
             "required": false
